@@ -4,3 +4,4 @@
 - 🌱 Estou estudando CSS, HTML e JavaScript
 - 🥉 Linguagens básicas: C++, C# e Python
 - 🎮 Plataforma: TODAS
+
